@@ -1,0 +1,3672 @@
+{
+  "kind": "blogger#postList",
+  "items": [
+    {
+      "kind": "blogger#post",
+      "id": "4193024202470464597",
+      "blog": {
+        "id": "2825532436133327117"
+      },
+      "published": "2021-03-10T10:18:00-08:00",
+      "updated": "2021-03-10T10:18:14-08:00",
+      "url": "http://neuropsychologyen.blogspot.com/2021/03/neuropsychology.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2825532436133327117/posts/4193024202470464597",
+      "title": "Neuropsychology",
+      "content": "",
+      "author": {
+        "id": "03286011044820943011",
+        "displayName": "sayang classic 90",
+        "url": "https://www.blogger.com/profile/03286011044820943011",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2825532436133327117/posts/4193024202470464597/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjE1NDAwMjk0MzI3Cm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "6831976738028516310",
+      "blog": {
+        "id": "2825532436133327117"
+      },
+      "published": "2021-03-10T10:16:00-08:00",
+      "updated": "2021-03-10T10:16:21-08:00",
+      "url": "http://neuropsychologyen.blogspot.com/2021/03/a-process.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2825532436133327117/posts/6831976738028516310",
+      "title": "A-process",
+      "content": "",
+      "author": {
+        "id": "03286011044820943011",
+        "displayName": "sayang classic 90",
+        "url": "https://www.blogger.com/profile/03286011044820943011",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2825532436133327117/posts/6831976738028516310/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjE1NDAwMTgxMDg2Cm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "6491962385394152368",
+      "blog": {
+        "id": "2825532436133327117"
+      },
+      "published": "2021-03-10T10:14:00-08:00",
+      "updated": "2021-03-10T10:14:38-08:00",
+      "url": "http://neuropsychologyen.blogspot.com/2021/03/adaptive-resonance-theory.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2825532436133327117/posts/6491962385394152368",
+      "title": "Adaptive resonance theory",
+      "content": "",
+      "author": {
+        "id": "03286011044820943011",
+        "displayName": "sayang classic 90",
+        "url": "https://www.blogger.com/profile/03286011044820943011",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2825532436133327117/posts/6491962385394152368/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjE1NDAwMDc4MDIwCm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "1475730654954181802",
+      "blog": {
+        "id": "2825532436133327117"
+      },
+      "published": "2021-03-10T10:12:00-08:00",
+      "updated": "2021-03-10T10:12:13-08:00",
+      "url": "http://neuropsychologyen.blogspot.com/2021/03/adult-neurogenesis.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2825532436133327117/posts/1475730654954181802",
+      "title": "Adult neurogenesis",
+      "content": "",
+      "author": {
+        "id": "03286011044820943011",
+        "displayName": "sayang classic 90",
+        "url": "https://www.blogger.com/profile/03286011044820943011",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2825532436133327117/posts/1475730654954181802/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjE1Mzk5OTMzMTk2Cm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "4512875090707961912",
+      "blog": {
+        "id": "2825532436133327117"
+      },
+      "published": "2021-03-10T10:10:00-08:00",
+      "updated": "2021-03-10T10:10:19-08:00",
+      "url": "http://neuropsychologyen.blogspot.com/2021/03/affectiva.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2825532436133327117/posts/4512875090707961912",
+      "title": "Affectiva",
+      "content": "",
+      "author": {
+        "id": "03286011044820943011",
+        "displayName": "sayang classic 90",
+        "url": "https://www.blogger.com/profile/03286011044820943011",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2825532436133327117/posts/4512875090707961912/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjE1Mzk5ODE5NTcyCm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "6872492921678191826",
+      "blog": {
+        "id": "2825532436133327117"
+      },
+      "published": "2021-03-10T10:08:00-08:00",
+      "updated": "2021-03-10T10:08:32-08:00",
+      "url": "http://neuropsychologyen.blogspot.com/2021/03/affective-neuroscience.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2825532436133327117/posts/6872492921678191826",
+      "title": "Affective neuroscience",
+      "content": "",
+      "author": {
+        "id": "03286011044820943011",
+        "displayName": "sayang classic 90",
+        "url": "https://www.blogger.com/profile/03286011044820943011",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2825532436133327117/posts/6872492921678191826/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjE1Mzk5NzEyNTgwCm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "3030267633676335785",
+      "blog": {
+        "id": "2825532436133327117"
+      },
+      "published": "2021-03-10T10:06:00-08:00",
+      "updated": "2021-03-10T10:06:09-08:00",
+      "url": "http://neuropsychologyen.blogspot.com/2021/03/affective-science.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2825532436133327117/posts/3030267633676335785",
+      "title": "Affective science",
+      "content": "",
+      "author": {
+        "id": "03286011044820943011",
+        "displayName": "sayang classic 90",
+        "url": "https://www.blogger.com/profile/03286011044820943011",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2825532436133327117/posts/3030267633676335785/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjE1Mzk5NTY5MDg4Cm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "5880077818934675378",
+      "blog": {
+        "id": "2825532436133327117"
+      },
+      "published": "2021-03-10T10:03:00-08:00",
+      "updated": "2021-03-10T10:03:53-08:00",
+      "url": "http://neuropsychologyen.blogspot.com/2021/03/akinetopsia.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2825532436133327117/posts/5880077818934675378",
+      "title": "Akinetopsia",
+      "content": "",
+      "author": {
+        "id": "17999838611123063685",
+        "displayName": "febyra",
+        "url": "https://www.blogger.com/profile/17999838611123063685",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2825532436133327117/posts/5880077818934675378/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjE1Mzk5NDMzNjQ5Cm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "5191528894763880742",
+      "blog": {
+        "id": "2825532436133327117"
+      },
+      "published": "2021-03-10T10:01:00-08:00",
+      "updated": "2021-03-10T10:01:46-08:00",
+      "url": "http://neuropsychologyen.blogspot.com/2021/03/alexithymia.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2825532436133327117/posts/5191528894763880742",
+      "title": "Alexithymia",
+      "content": "",
+      "author": {
+        "id": "17999838611123063685",
+        "displayName": "febyra",
+        "url": "https://www.blogger.com/profile/17999838611123063685",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2825532436133327117/posts/5191528894763880742/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjE1Mzk5MzA2MzkzCm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "7905879059735927763",
+      "blog": {
+        "id": "2825532436133327117"
+      },
+      "published": "2021-03-10T09:52:00-08:00",
+      "updated": "2021-03-10T09:52:03-08:00",
+      "url": "http://neuropsychologyen.blogspot.com/2021/03/allochiria.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2825532436133327117/posts/7905879059735927763",
+      "title": "Allochiria",
+      "content": "",
+      "author": {
+        "id": "03286011044820943011",
+        "displayName": "sayang classic 90",
+        "url": "https://www.blogger.com/profile/03286011044820943011",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2825532436133327117/posts/7905879059735927763/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjE1Mzk4NzIzNjc2Cm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "7379901017499402377",
+      "blog": {
+        "id": "2825532436133327117"
+      },
+      "published": "2021-03-10T09:50:00-08:00",
+      "updated": "2021-03-10T09:50:04-08:00",
+      "url": "http://neuropsychologyen.blogspot.com/2021/03/american-board-of-professional.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2825532436133327117/posts/7379901017499402377",
+      "title": "American Board of Professional Neuropsychology",
+      "content": "",
+      "author": {
+        "id": "03286011044820943011",
+        "displayName": "sayang classic 90",
+        "url": "https://www.blogger.com/profile/03286011044820943011",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2825532436133327117/posts/7379901017499402377/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjE1Mzk4NjA0NzE5Cm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "9034506532328727941",
+      "blog": {
+        "id": "2825532436133327117"
+      },
+      "published": "2021-03-10T09:47:00-08:00",
+      "updated": "2021-03-10T09:47:44-08:00",
+      "url": "http://neuropsychologyen.blogspot.com/2021/03/amygdala.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2825532436133327117/posts/9034506532328727941",
+      "title": "Amygdala",
+      "content": "",
+      "author": {
+        "id": "03286011044820943011",
+        "displayName": "sayang classic 90",
+        "url": "https://www.blogger.com/profile/03286011044820943011",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2825532436133327117/posts/9034506532328727941/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjE1Mzk4NDY0OTMzCm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "7222157017324266985",
+      "blog": {
+        "id": "2825532436133327117"
+      },
+      "published": "2021-03-10T09:45:00-08:00",
+      "updated": "2021-03-10T09:45:39-08:00",
+      "url": "http://neuropsychologyen.blogspot.com/2021/03/amygdala-hijack.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2825532436133327117/posts/7222157017324266985",
+      "title": "Amygdala hijack",
+      "content": "",
+      "author": {
+        "id": "03286011044820943011",
+        "displayName": "sayang classic 90",
+        "url": "https://www.blogger.com/profile/03286011044820943011",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2825532436133327117/posts/7222157017324266985/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjE1Mzk4MzM5MjkyCm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "5431367192013198665",
+      "blog": {
+        "id": "2825532436133327117"
+      },
+      "published": "2021-03-10T09:44:00-08:00",
+      "updated": "2021-03-10T09:44:02-08:00",
+      "url": "http://neuropsychologyen.blogspot.com/2021/03/apa-division-of-clinical-neuropsychology.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2825532436133327117/posts/5431367192013198665",
+      "title": "APA Division of Clinical Neuropsychology",
+      "content": "",
+      "author": {
+        "id": "03286011044820943011",
+        "displayName": "sayang classic 90",
+        "url": "https://www.blogger.com/profile/03286011044820943011",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2825532436133327117/posts/5431367192013198665/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjE1Mzk4MjQyODkzCm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "4163091847384044625",
+      "blog": {
+        "id": "2825532436133327117"
+      },
+      "published": "2021-03-10T09:41:00-08:00",
+      "updated": "2021-03-10T09:41:45-08:00",
+      "url": "http://neuropsychologyen.blogspot.com/2021/03/aphonogelia.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2825532436133327117/posts/4163091847384044625",
+      "title": "Aphonogelia",
+      "content": "",
+      "author": {
+        "id": "03286011044820943011",
+        "displayName": "sayang classic 90",
+        "url": "https://www.blogger.com/profile/03286011044820943011",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2825532436133327117/posts/4163091847384044625/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjE1Mzk4MTA1Mjk3Cm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "8961905282292565757",
+      "blog": {
+        "id": "2825532436133327117"
+      },
+      "published": "2021-03-10T09:40:00-08:00",
+      "updated": "2021-03-10T09:40:24-08:00",
+      "url": "http://neuropsychologyen.blogspot.com/2021/03/arousal.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2825532436133327117/posts/8961905282292565757",
+      "title": "Arousal",
+      "content": "",
+      "author": {
+        "id": "03286011044820943011",
+        "displayName": "sayang classic 90",
+        "url": "https://www.blogger.com/profile/03286011044820943011",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2825532436133327117/posts/8961905282292565757/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjE1Mzk4MDI0MDgwCm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "8998540249924531982",
+      "blog": {
+        "id": "2825532436133327117"
+      },
+      "published": "2021-03-10T09:38:00-08:00",
+      "updated": "2021-03-10T09:38:01-08:00",
+      "url": "http://neuropsychologyen.blogspot.com/2021/03/athymhormia.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2825532436133327117/posts/8998540249924531982",
+      "title": "Athymhormia",
+      "content": "",
+      "author": {
+        "id": "03286011044820943011",
+        "displayName": "sayang classic 90",
+        "url": "https://www.blogger.com/profile/03286011044820943011",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2825532436133327117/posts/8998540249924531982/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjE1Mzk3ODgxMDE4Cm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "2861878884309276087",
+      "blog": {
+        "id": "2825532436133327117"
+      },
+      "published": "2021-03-10T09:36:00-08:00",
+      "updated": "2021-03-10T09:36:34-08:00",
+      "url": "http://neuropsychologyen.blogspot.com/2021/03/mechanism-of-autism.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2825532436133327117/posts/2861878884309276087",
+      "title": "Mechanism of autism",
+      "content": "",
+      "author": {
+        "id": "03286011044820943011",
+        "displayName": "sayang classic 90",
+        "url": "https://www.blogger.com/profile/03286011044820943011",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2825532436133327117/posts/2861878884309276087/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjE1Mzk3Nzk0MDM2Cm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "1770582061250637508",
+      "blog": {
+        "id": "2825532436133327117"
+      },
+      "published": "2021-03-10T09:34:00-08:00",
+      "updated": "2021-03-10T09:34:18-08:00",
+      "url": "http://neuropsychologyen.blogspot.com/2021/03/behavioral-neuroscience.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2825532436133327117/posts/1770582061250637508",
+      "title": "Behavioral neuroscience",
+      "content": "",
+      "author": {
+        "id": "03286011044820943011",
+        "displayName": "sayang classic 90",
+        "url": "https://www.blogger.com/profile/03286011044820943011",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2825532436133327117/posts/1770582061250637508/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjE1Mzk3NjU4NDQ1Cm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "3632607934317564171",
+      "blog": {
+        "id": "2825532436133327117"
+      },
+      "published": "2021-03-10T09:32:00-08:00",
+      "updated": "2021-03-10T09:32:36-08:00",
+      "url": "http://neuropsychologyen.blogspot.com/2021/03/biogenetic-structuralism.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2825532436133327117/posts/3632607934317564171",
+      "title": "Biogenetic structuralism",
+      "content": "",
+      "author": {
+        "id": "03286011044820943011",
+        "displayName": "sayang classic 90",
+        "url": "https://www.blogger.com/profile/03286011044820943011",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2825532436133327117/posts/3632607934317564171/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjE1Mzk3NTU2NTM1Cm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "6503979576260332553",
+      "blog": {
+        "id": "2825532436133327117"
+      },
+      "published": "2021-03-10T09:30:00-08:00",
+      "updated": "2021-03-10T09:30:22-08:00",
+      "url": "http://neuropsychologyen.blogspot.com/2021/03/the-boston-process-approach.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2825532436133327117/posts/6503979576260332553",
+      "title": "The Boston Process Approach",
+      "content": "",
+      "author": {
+        "id": "03286011044820943011",
+        "displayName": "sayang classic 90",
+        "url": "https://www.blogger.com/profile/03286011044820943011",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2825532436133327117/posts/6503979576260332553/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjE1Mzk3NDIyNjI3Cm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "1175652762899463025",
+      "blog": {
+        "id": "2825532436133327117"
+      },
+      "published": "2021-03-10T09:28:00-08:00",
+      "updated": "2021-03-10T09:28:51-08:00",
+      "url": "http://neuropsychologyen.blogspot.com/2021/03/brain-activity-and-meditation.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2825532436133327117/posts/1175652762899463025",
+      "title": "Brain activity and meditation",
+      "content": "",
+      "author": {
+        "id": "03286011044820943011",
+        "displayName": "sayang classic 90",
+        "url": "https://www.blogger.com/profile/03286011044820943011",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2825532436133327117/posts/1175652762899463025/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjE1Mzk3MzMxMjQwCm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "6732767194465682535",
+      "blog": {
+        "id": "2825532436133327117"
+      },
+      "published": "2021-03-10T09:26:00-08:00",
+      "updated": "2021-03-10T09:26:53-08:00",
+      "url": "http://neuropsychologyen.blogspot.com/2021/03/brain-training.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2825532436133327117/posts/6732767194465682535",
+      "title": "Brain training",
+      "content": "",
+      "author": {
+        "id": "03286011044820943011",
+        "displayName": "sayang classic 90",
+        "url": "https://www.blogger.com/profile/03286011044820943011",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2825532436133327117/posts/6732767194465682535/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjE1Mzk3MjEzNjIwCm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "6791991446631291766",
+      "blog": {
+        "id": "2825532436133327117"
+      },
+      "published": "2021-03-10T09:25:00-08:00",
+      "updated": "2021-03-10T09:25:22-08:00",
+      "url": "http://neuropsychologyen.blogspot.com/2021/03/brainsway.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2825532436133327117/posts/6791991446631291766",
+      "title": "BrainsWay",
+      "content": "",
+      "author": {
+        "id": "03286011044820943011",
+        "displayName": "sayang classic 90",
+        "url": "https://www.blogger.com/profile/03286011044820943011",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2825532436133327117/posts/6791991446631291766/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjE1Mzk3MTIyMDUzCm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "3506478105729381414",
+      "blog": {
+        "id": "2825532436133327117"
+      },
+      "published": "2021-03-10T07:10:00-08:00",
+      "updated": "2021-03-10T07:10:54-08:00",
+      "url": "http://neuropsychologyen.blogspot.com/2021/03/cat-intelligence.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2825532436133327117/posts/3506478105729381414",
+      "title": "Cat intelligence",
+      "content": "",
+      "author": {
+        "id": "03286011044820943011",
+        "displayName": "sayang classic 90",
+        "url": "https://www.blogger.com/profile/03286011044820943011",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2825532436133327117/posts/3506478105729381414/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjE1Mzg5MDU0NzE3Cm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "6562479294874193721",
+      "blog": {
+        "id": "2825532436133327117"
+      },
+      "published": "2021-03-10T07:08:00-08:00",
+      "updated": "2021-03-10T07:08:33-08:00",
+      "url": "http://neuropsychologyen.blogspot.com/2021/03/central-nucleus-of-amygdala.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2825532436133327117/posts/6562479294874193721",
+      "title": "Central nucleus of the amygdala",
+      "content": "",
+      "author": {
+        "id": "03286011044820943011",
+        "displayName": "sayang classic 90",
+        "url": "https://www.blogger.com/profile/03286011044820943011",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2825532436133327117/posts/6562479294874193721/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjE1Mzg4OTEzNTY4Cm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "3689101665575998451",
+      "blog": {
+        "id": "2825532436133327117"
+      },
+      "published": "2021-03-10T07:06:00-08:00",
+      "updated": "2021-03-10T07:06:37-08:00",
+      "url": "http://neuropsychologyen.blogspot.com/2021/03/cerebral-achromatopsia.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2825532436133327117/posts/3689101665575998451",
+      "title": "Cerebral achromatopsia",
+      "content": "",
+      "author": {
+        "id": "03286011044820943011",
+        "displayName": "sayang classic 90",
+        "url": "https://www.blogger.com/profile/03286011044820943011",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2825532436133327117/posts/3689101665575998451/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjE1Mzg4Nzk3NjEyCm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "2472067507736984250",
+      "blog": {
+        "id": "2825532436133327117"
+      },
+      "published": "2021-03-10T07:04:00-08:00",
+      "updated": "2021-03-10T07:04:39-08:00",
+      "url": "http://neuropsychologyen.blogspot.com/2021/03/chemogenetics.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2825532436133327117/posts/2472067507736984250",
+      "title": "Chemogenetics",
+      "content": "",
+      "author": {
+        "id": "03286011044820943011",
+        "displayName": "sayang classic 90",
+        "url": "https://www.blogger.com/profile/03286011044820943011",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2825532436133327117/posts/2472067507736984250/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjE1Mzg4Njc5Mjk4Cm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "3878976512154376166",
+      "blog": {
+        "id": "2825532436133327117"
+      },
+      "published": "2021-03-10T07:02:00-08:00",
+      "updated": "2021-03-10T07:02:54-08:00",
+      "url": "http://neuropsychologyen.blogspot.com/2021/03/clinical-neuropsychology.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2825532436133327117/posts/3878976512154376166",
+      "title": "Clinical neuropsychology",
+      "content": "",
+      "author": {
+        "id": "03286011044820943011",
+        "displayName": "sayang classic 90",
+        "url": "https://www.blogger.com/profile/03286011044820943011",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2825532436133327117/posts/3878976512154376166/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjE1Mzg4NTc0ODIxCm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "2661239546201236619",
+      "blog": {
+        "id": "2825532436133327117"
+      },
+      "published": "2021-03-10T06:58:00-08:00",
+      "updated": "2021-03-10T06:58:43-08:00",
+      "url": "http://neuropsychologyen.blogspot.com/2021/03/cognitive-flexibility.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2825532436133327117/posts/2661239546201236619",
+      "title": "Cognitive flexibility",
+      "content": "",
+      "author": {
+        "id": "03286011044820943011",
+        "displayName": "sayang classic 90",
+        "url": "https://www.blogger.com/profile/03286011044820943011",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2825532436133327117/posts/2661239546201236619/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjE1Mzg4MzIzMTUyCm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "7982772272907718714",
+      "blog": {
+        "id": "2825532436133327117"
+      },
+      "published": "2021-03-10T06:57:00-08:00",
+      "updated": "2021-03-10T06:57:11-08:00",
+      "url": "http://neuropsychologyen.blogspot.com/2021/03/cognitive-humor-processing.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2825532436133327117/posts/7982772272907718714",
+      "title": "Cognitive humor processing",
+      "content": "",
+      "author": {
+        "id": "03286011044820943011",
+        "displayName": "sayang classic 90",
+        "url": "https://www.blogger.com/profile/03286011044820943011",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2825532436133327117/posts/7982772272907718714/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjE1Mzg4MjMxODY1Cm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "5419203839908582567",
+      "blog": {
+        "id": "2825532436133327117"
+      },
+      "published": "2021-03-10T06:54:00-08:00",
+      "updated": "2021-03-10T06:54:45-08:00",
+      "url": "http://neuropsychologyen.blogspot.com/2021/03/cognitive-neuropsychiatry.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2825532436133327117/posts/5419203839908582567",
+      "title": "Cognitive neuropsychiatry",
+      "content": "",
+      "author": {
+        "id": "03286011044820943011",
+        "displayName": "sayang classic 90",
+        "url": "https://www.blogger.com/profile/03286011044820943011",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2825532436133327117/posts/5419203839908582567/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjE1Mzg4MDg1NjM5Cm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "4659883985347072041",
+      "blog": {
+        "id": "2825532436133327117"
+      },
+      "published": "2021-03-10T06:53:00-08:00",
+      "updated": "2021-03-10T06:53:01-08:00",
+      "url": "http://neuropsychologyen.blogspot.com/2021/03/cognitive-neuropsychology.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2825532436133327117/posts/4659883985347072041",
+      "title": "Cognitive neuropsychology",
+      "content": "",
+      "author": {
+        "id": "03286011044820943011",
+        "displayName": "sayang classic 90",
+        "url": "https://www.blogger.com/profile/03286011044820943011",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2825532436133327117/posts/4659883985347072041/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjE1Mzg3OTgxMzA0Cm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "7751337654819748287",
+      "blog": {
+        "id": "2825532436133327117"
+      },
+      "published": "2021-03-10T06:50:00-08:00",
+      "updated": "2021-03-10T06:50:39-08:00",
+      "url": "http://neuropsychologyen.blogspot.com/2021/03/cognitive-neuroscience.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2825532436133327117/posts/7751337654819748287",
+      "title": "Cognitive neuroscience",
+      "content": "",
+      "author": {
+        "id": "03286011044820943011",
+        "displayName": "sayang classic 90",
+        "url": "https://www.blogger.com/profile/03286011044820943011",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2825532436133327117/posts/7751337654819748287/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjE1Mzg3ODM5MTY0Cm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "6217128454039661064",
+      "blog": {
+        "id": "2825532436133327117"
+      },
+      "published": "2021-03-10T06:48:00-08:00",
+      "updated": "2021-03-10T06:48:58-08:00",
+      "url": "http://neuropsychologyen.blogspot.com/2021/03/cognitive-rehabilitation-therapy.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2825532436133327117/posts/6217128454039661064",
+      "title": "Cognitive rehabilitation therapy",
+      "content": "",
+      "author": {
+        "id": "03286011044820943011",
+        "displayName": "sayang classic 90",
+        "url": "https://www.blogger.com/profile/03286011044820943011",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2825532436133327117/posts/6217128454039661064/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjE1Mzg3NzM4MDI1Cm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "2008995887767244355",
+      "blog": {
+        "id": "2825532436133327117"
+      },
+      "published": "2021-03-10T06:46:00-08:00",
+      "updated": "2021-03-10T06:46:40-08:00",
+      "url": "http://neuropsychologyen.blogspot.com/2021/03/cognitive-remediation-therapy.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2825532436133327117/posts/2008995887767244355",
+      "title": "Cognitive remediation therapy",
+      "content": "",
+      "author": {
+        "id": "03286011044820943011",
+        "displayName": "sayang classic 90",
+        "url": "https://www.blogger.com/profile/03286011044820943011",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2825532436133327117/posts/2008995887767244355/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjE1Mzg3NjAwMTY1Cm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "1853520084125295752",
+      "blog": {
+        "id": "2825532436133327117"
+      },
+      "published": "2021-03-10T06:44:00-08:00",
+      "updated": "2021-03-10T06:44:41-08:00",
+      "url": "http://neuropsychologyen.blogspot.com/2021/03/comparative-neuropsychology.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2825532436133327117/posts/1853520084125295752",
+      "title": "Comparative neuropsychology",
+      "content": "",
+      "author": {
+        "id": "03286011044820943011",
+        "displayName": "sayang classic 90",
+        "url": "https://www.blogger.com/profile/03286011044820943011",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2825532436133327117/posts/1853520084125295752/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjE1Mzg3NDgxNzc5Cm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "7772748626319893502",
+      "blog": {
+        "id": "2825532436133327117"
+      },
+      "published": "2021-03-10T06:42:00-08:00",
+      "updated": "2021-03-10T06:42:27-08:00",
+      "url": "http://neuropsychologyen.blogspot.com/2021/03/consciousness.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2825532436133327117/posts/7772748626319893502",
+      "title": "Consciousness",
+      "content": "",
+      "author": {
+        "id": "03286011044820943011",
+        "displayName": "sayang classic 90",
+        "url": "https://www.blogger.com/profile/03286011044820943011",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2825532436133327117/posts/7772748626319893502/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjE1Mzg3MzQ3NTEyCm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "6319184243339999063",
+      "blog": {
+        "id": "2825532436133327117"
+      },
+      "published": "2021-03-10T06:34:00-08:00",
+      "updated": "2021-03-10T06:34:42-08:00",
+      "url": "http://neuropsychologyen.blogspot.com/2021/03/cross-education.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2825532436133327117/posts/6319184243339999063",
+      "title": "Cross education",
+      "content": "",
+      "author": {
+        "id": "03286011044820943011",
+        "displayName": "sayang classic 90",
+        "url": "https://www.blogger.com/profile/03286011044820943011",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2825532436133327117/posts/6319184243339999063/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjE1Mzg2ODgyNTgxCm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "6760015681640458293",
+      "blog": {
+        "id": "2825532436133327117"
+      },
+      "published": "2021-03-10T06:33:00-08:00",
+      "updated": "2021-03-10T06:33:17-08:00",
+      "url": "http://neuropsychologyen.blogspot.com/2021/03/cultural-neuroscience.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2825532436133327117/posts/6760015681640458293",
+      "title": "Cultural neuroscience",
+      "content": "",
+      "author": {
+        "id": "03286011044820943011",
+        "displayName": "sayang classic 90",
+        "url": "https://www.blogger.com/profile/03286011044820943011",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2825532436133327117/posts/6760015681640458293/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjE1Mzg2Nzk3Mzk2Cm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "4388974604249606376",
+      "blog": {
+        "id": "2825532436133327117"
+      },
+      "published": "2021-03-10T06:31:00-08:00",
+      "updated": "2021-03-10T06:31:29-08:00",
+      "url": "http://neuropsychologyen.blogspot.com/2021/03/depression.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2825532436133327117/posts/4388974604249606376",
+      "title": "Depression",
+      "content": "",
+      "author": {
+        "id": "03286011044820943011",
+        "displayName": "sayang classic 90",
+        "url": "https://www.blogger.com/profile/03286011044820943011",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2825532436133327117/posts/4388974604249606376/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjE1Mzg2Njg5MzgyCm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "660981638673839218",
+      "blog": {
+        "id": "2825532436133327117"
+      },
+      "published": "2021-03-10T06:29:00-08:00",
+      "updated": "2021-03-10T06:29:35-08:00",
+      "url": "http://neuropsychologyen.blogspot.com/2021/03/differential-diagnoses-of-depression.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2825532436133327117/posts/660981638673839218",
+      "title": "Differential diagnoses of depression",
+      "content": "",
+      "author": {
+        "id": "03286011044820943011",
+        "displayName": "sayang classic 90",
+        "url": "https://www.blogger.com/profile/03286011044820943011",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2825532436133327117/posts/660981638673839218/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjE1Mzg2NTc1Mzk3Cm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "5214222849154118786",
+      "blog": {
+        "id": "2825532436133327117"
+      },
+      "published": "2021-03-10T06:25:00-08:00",
+      "updated": "2021-03-10T06:25:54-08:00",
+      "url": "http://neuropsychologyen.blogspot.com/2021/03/directed-attention-fatigue.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2825532436133327117/posts/5214222849154118786",
+      "title": "Directed attention fatigue",
+      "content": "",
+      "author": {
+        "id": "03286011044820943011",
+        "displayName": "sayang classic 90",
+        "url": "https://www.blogger.com/profile/03286011044820943011",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2825532436133327117/posts/5214222849154118786/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjE1Mzg2MzU0ODA0Cm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "717670462991176370",
+      "blog": {
+        "id": "2825532436133327117"
+      },
+      "published": "2021-03-10T06:23:00-08:00",
+      "updated": "2021-03-10T06:23:32-08:00",
+      "url": "http://neuropsychologyen.blogspot.com/2021/03/disconnection-syndrome.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2825532436133327117/posts/717670462991176370",
+      "title": "Disconnection syndrome",
+      "content": "",
+      "author": {
+        "id": "03286011044820943011",
+        "displayName": "sayang classic 90",
+        "url": "https://www.blogger.com/profile/03286011044820943011",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2825532436133327117/posts/717670462991176370/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjE1Mzg2MjEyOTUzCm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "8320705875817182259",
+      "blog": {
+        "id": "2825532436133327117"
+      },
+      "published": "2021-03-10T06:21:00-08:00",
+      "updated": "2021-03-10T06:21:55-08:00",
+      "url": "http://neuropsychologyen.blogspot.com/2021/03/disjunctive-cognition.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2825532436133327117/posts/8320705875817182259",
+      "title": "Disjunctive cognition",
+      "content": "",
+      "author": {
+        "id": "03286011044820943011",
+        "displayName": "sayang classic 90",
+        "url": "https://www.blogger.com/profile/03286011044820943011",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2825532436133327117/posts/8320705875817182259/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjE1Mzg2MTE1MDYwCm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "1235665549697004587",
+      "blog": {
+        "id": "2825532436133327117"
+      },
+      "published": "2021-03-10T06:20:00-08:00",
+      "updated": "2021-03-10T06:20:12-08:00",
+      "url": "http://neuropsychologyen.blogspot.com/2021/03/dissociation.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2825532436133327117/posts/1235665549697004587",
+      "title": "Dissociation",
+      "content": "",
+      "author": {
+        "id": "03286011044820943011",
+        "displayName": "sayang classic 90",
+        "url": "https://www.blogger.com/profile/03286011044820943011",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2825532436133327117/posts/1235665549697004587/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjE1Mzg2MDEyNjI3Cm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "6186555769687249782",
+      "blog": {
+        "id": "2825532436133327117"
+      },
+      "published": "2021-03-10T06:18:00-08:00",
+      "updated": "2021-03-10T06:18:16-08:00",
+      "url": "http://neuropsychologyen.blogspot.com/2021/03/divided-consciousness.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2825532436133327117/posts/6186555769687249782",
+      "title": "Divided consciousness",
+      "content": "",
+      "author": {
+        "id": "03286011044820943011",
+        "displayName": "sayang classic 90",
+        "url": "https://www.blogger.com/profile/03286011044820943011",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2825532436133327117/posts/6186555769687249782/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjE1Mzg1ODk2OTkwCm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "2988305301615117965",
+      "blog": {
+        "id": "2825532436133327117"
+      },
+      "published": "2021-03-10T06:16:00-08:00",
+      "updated": "2021-03-10T06:16:09-08:00",
+      "url": "http://neuropsychologyen.blogspot.com/2021/03/dual-task-paradigm.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2825532436133327117/posts/2988305301615117965",
+      "title": "Dual-task paradigm",
+      "content": "",
+      "author": {
+        "id": "03286011044820943011",
+        "displayName": "sayang classic 90",
+        "url": "https://www.blogger.com/profile/03286011044820943011",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2825532436133327117/posts/2988305301615117965/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjE1Mzg1NzY5MTQ1Cm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "1103365168383104894",
+      "blog": {
+        "id": "2825532436133327117"
+      },
+      "published": "2021-03-10T06:14:00-08:00",
+      "updated": "2021-03-10T06:14:18-08:00",
+      "url": "http://neuropsychologyen.blogspot.com/2021/03/electromagnetic-theories-of.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2825532436133327117/posts/1103365168383104894",
+      "title": "Electromagnetic theories of consciousness",
+      "content": "",
+      "author": {
+        "id": "03286011044820943011",
+        "displayName": "sayang classic 90",
+        "url": "https://www.blogger.com/profile/03286011044820943011",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2825532436133327117/posts/1103365168383104894/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjE1Mzg1NjU4MzAzCm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "6801897041978446697",
+      "blog": {
+        "id": "2825532436133327117"
+      },
+      "published": "2021-03-10T06:11:00-08:00",
+      "updated": "2021-03-10T06:11:54-08:00",
+      "url": "http://neuropsychologyen.blogspot.com/2021/03/emotional-lateralization.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2825532436133327117/posts/6801897041978446697",
+      "title": "Emotional lateralization",
+      "content": "",
+      "author": {
+        "id": "03286011044820943011",
+        "displayName": "sayang classic 90",
+        "url": "https://www.blogger.com/profile/03286011044820943011",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2825532436133327117/posts/6801897041978446697/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjE1Mzg1NTE0MTQ5Cm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "2080898183524094859",
+      "blog": {
+        "id": "2825532436133327117"
+      },
+      "published": "2021-03-10T06:09:00-08:00",
+      "updated": "2021-03-10T06:09:48-08:00",
+      "url": "http://neuropsychologyen.blogspot.com/2021/03/enactivism.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2825532436133327117/posts/2080898183524094859",
+      "title": "Enactivism",
+      "content": "",
+      "author": {
+        "id": "03286011044820943011",
+        "displayName": "sayang classic 90",
+        "url": "https://www.blogger.com/profile/03286011044820943011",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2825532436133327117/posts/2080898183524094859/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjE1Mzg1Mzg4NDg2Cm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "6058497344617760939",
+      "blog": {
+        "id": "2825532436133327117"
+      },
+      "published": "2021-03-10T06:07:00-08:00",
+      "updated": "2021-03-10T06:07:25-08:00",
+      "url": "http://neuropsychologyen.blogspot.com/2021/03/engram.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2825532436133327117/posts/6058497344617760939",
+      "title": "Engram",
+      "content": "",
+      "author": {
+        "id": "03286011044820943011",
+        "displayName": "sayang classic 90",
+        "url": "https://www.blogger.com/profile/03286011044820943011",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2825532436133327117/posts/6058497344617760939/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjE1Mzg1MjQ1NjQwCm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "6546773515526175958",
+      "blog": {
+        "id": "2825532436133327117"
+      },
+      "published": "2021-03-10T06:05:00-08:00",
+      "updated": "2021-03-10T06:05:33-08:00",
+      "url": "http://neuropsychologyen.blogspot.com/2021/03/environmental-enrichment.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2825532436133327117/posts/6546773515526175958",
+      "title": "Environmental enrichment",
+      "content": "",
+      "author": {
+        "id": "03286011044820943011",
+        "displayName": "sayang classic 90",
+        "url": "https://www.blogger.com/profile/03286011044820943011",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2825532436133327117/posts/6546773515526175958/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjE1Mzg1MTMzNjI2Cm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "5255496511971380057",
+      "blog": {
+        "id": "2825532436133327117"
+      },
+      "published": "2021-03-10T06:03:00-08:00",
+      "updated": "2021-03-10T06:03:28-08:00",
+      "url": "http://neuropsychologyen.blogspot.com/2021/03/equipotentiality.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2825532436133327117/posts/5255496511971380057",
+      "title": "Equipotentiality",
+      "content": "",
+      "author": {
+        "id": "03286011044820943011",
+        "displayName": "sayang classic 90",
+        "url": "https://www.blogger.com/profile/03286011044820943011",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2825532436133327117/posts/5255496511971380057/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjE1Mzg1MDA4NDE4Cm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "5233672382972039312",
+      "blog": {
+        "id": "2825532436133327117"
+      },
+      "published": "2021-03-10T06:01:00-08:00",
+      "updated": "2021-03-10T06:01:28-08:00",
+      "url": "http://neuropsychologyen.blogspot.com/2021/03/executive-dysfunction.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2825532436133327117/posts/5233672382972039312",
+      "title": "Executive dysfunction",
+      "content": "",
+      "author": {
+        "id": "03286011044820943011",
+        "displayName": "sayang classic 90",
+        "url": "https://www.blogger.com/profile/03286011044820943011",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2825532436133327117/posts/5233672382972039312/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjE1Mzg0ODg4NjA1Cm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "7085773729180928526",
+      "blog": {
+        "id": "2825532436133327117"
+      },
+      "published": "2021-03-10T05:58:00-08:00",
+      "updated": "2021-03-10T05:58:49-08:00",
+      "url": "http://neuropsychologyen.blogspot.com/2021/03/executive-functions.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2825532436133327117/posts/7085773729180928526",
+      "title": "Executive functions",
+      "content": "",
+      "author": {
+        "id": "03286011044820943011",
+        "displayName": "sayang classic 90",
+        "url": "https://www.blogger.com/profile/03286011044820943011",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2825532436133327117/posts/7085773729180928526/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjE1Mzg0NzI5MzMyCm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "6447814764168674550",
+      "blog": {
+        "id": "2825532436133327117"
+      },
+      "published": "2021-03-10T05:53:00-08:00",
+      "updated": "2021-03-10T05:53:40-08:00",
+      "url": "http://neuropsychologyen.blogspot.com/2021/03/facial-coding.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2825532436133327117/posts/6447814764168674550",
+      "title": "Facial coding",
+      "content": "",
+      "author": {
+        "id": "03286011044820943011",
+        "displayName": "sayang classic 90",
+        "url": "https://www.blogger.com/profile/03286011044820943011",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2825532436133327117/posts/6447814764168674550/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjE1Mzg0NDIwNDI5Cm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "7665230466191681041",
+      "blog": {
+        "id": "2825532436133327117"
+      },
+      "published": "2021-03-10T05:52:00-08:00",
+      "updated": "2021-03-10T05:52:09-08:00",
+      "url": "http://neuropsychologyen.blogspot.com/2021/03/fear-processing-in-brain.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2825532436133327117/posts/7665230466191681041",
+      "title": "Fear processing in the brain",
+      "content": "",
+      "author": {
+        "id": "03286011044820943011",
+        "displayName": "sayang classic 90",
+        "url": "https://www.blogger.com/profile/03286011044820943011",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2825532436133327117/posts/7665230466191681041/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjE1Mzg0MzI5ODU4Cm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "2543010474317200804",
+      "blog": {
+        "id": "2825532436133327117"
+      },
+      "published": "2021-03-10T05:49:00-08:00",
+      "updated": "2021-03-10T05:49:54-08:00",
+      "url": "http://neuropsychologyen.blogspot.com/2021/03/feature-integration-theory.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2825532436133327117/posts/2543010474317200804",
+      "title": "Feature integration theory",
+      "content": "",
+      "author": {
+        "id": "03286011044820943011",
+        "displayName": "sayang classic 90",
+        "url": "https://www.blogger.com/profile/03286011044820943011",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2825532436133327117/posts/2543010474317200804/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjE1Mzg0MTk0NzA1Cm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "8787828366641146704",
+      "blog": {
+        "id": "2825532436133327117"
+      },
+      "published": "2021-03-10T05:47:00-08:00",
+      "updated": "2021-03-10T05:47:33-08:00",
+      "url": "http://neuropsychologyen.blogspot.com/2021/03/gamma-wave.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2825532436133327117/posts/8787828366641146704",
+      "title": "Gamma wave",
+      "content": "",
+      "author": {
+        "id": "03286011044820943011",
+        "displayName": "sayang classic 90",
+        "url": "https://www.blogger.com/profile/03286011044820943011",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2825532436133327117/posts/8787828366641146704/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjE1Mzg0MDUzMTkwCm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "1212532349744227292",
+      "blog": {
+        "id": "2825532436133327117"
+      },
+      "published": "2021-03-10T05:45:00-08:00",
+      "updated": "2021-03-10T05:45:11-08:00",
+      "url": "http://neuropsychologyen.blogspot.com/2021/03/god-helmet.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2825532436133327117/posts/1212532349744227292",
+      "title": "God helmet",
+      "content": "",
+      "author": {
+        "id": "03286011044820943011",
+        "displayName": "sayang classic 90",
+        "url": "https://www.blogger.com/profile/03286011044820943011",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2825532436133327117/posts/1212532349744227292/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjE1MzgzOTExOTgyCm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "4815588591170092086",
+      "blog": {
+        "id": "2825532436133327117"
+      },
+      "published": "2021-03-10T05:43:00-08:00",
+      "updated": "2021-03-10T05:43:26-08:00",
+      "url": "http://neuropsychologyen.blogspot.com/2021/03/hedonic-hunger.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2825532436133327117/posts/4815588591170092086",
+      "title": "Hedonic hunger",
+      "content": "",
+      "author": {
+        "id": "03286011044820943011",
+        "displayName": "sayang classic 90",
+        "url": "https://www.blogger.com/profile/03286011044820943011",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2825532436133327117/posts/4815588591170092086/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjE1MzgzODA2MDI3Cm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "2024502552841156569",
+      "blog": {
+        "id": "2825532436133327117"
+      },
+      "published": "2021-03-10T05:41:00-08:00",
+      "updated": "2021-03-10T05:41:04-08:00",
+      "url": "http://neuropsychologyen.blogspot.com/2021/03/hemispherectomy.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2825532436133327117/posts/2024502552841156569",
+      "title": "Hemispherectomy",
+      "content": "",
+      "author": {
+        "id": "03286011044820943011",
+        "displayName": "sayang classic 90",
+        "url": "https://www.blogger.com/profile/03286011044820943011",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2825532436133327117/posts/2024502552841156569/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjE1MzgzNjY0ODYxCm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "1136762085730137072",
+      "blog": {
+        "id": "2825532436133327117"
+      },
+      "published": "2021-03-10T05:39:00-08:00",
+      "updated": "2021-03-10T05:39:08-08:00",
+      "url": "http://neuropsychologyen.blogspot.com/2021/03/hold-test.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2825532436133327117/posts/1136762085730137072",
+      "title": "Hold test",
+      "content": "",
+      "author": {
+        "id": "03286011044820943011",
+        "displayName": "sayang classic 90",
+        "url": "https://www.blogger.com/profile/03286011044820943011",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2825532436133327117/posts/1136762085730137072/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjE1MzgzNTQ4ODY1Cm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "7261552390701559695",
+      "blog": {
+        "id": "2825532436133327117"
+      },
+      "published": "2021-03-10T05:36:00-08:00",
+      "updated": "2021-03-10T05:36:05-08:00",
+      "url": "http://neuropsychologyen.blogspot.com/2021/03/holonomic-brain-theory.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2825532436133327117/posts/7261552390701559695",
+      "title": "Holonomic brain theory",
+      "content": "",
+      "author": {
+        "id": "03286011044820943011",
+        "displayName": "sayang classic 90",
+        "url": "https://www.blogger.com/profile/03286011044820943011",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2825532436133327117/posts/7261552390701559695/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjE1MzgzMzY1ODYwCm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "8791395704089632443",
+      "blog": {
+        "id": "2825532436133327117"
+      },
+      "published": "2021-03-10T05:31:00-08:00",
+      "updated": "2021-03-10T05:31:25-08:00",
+      "url": "http://neuropsychologyen.blogspot.com/2021/03/human-multitasking.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2825532436133327117/posts/8791395704089632443",
+      "title": "Human multitasking",
+      "content": "",
+      "author": {
+        "id": "03286011044820943011",
+        "displayName": "sayang classic 90",
+        "url": "https://www.blogger.com/profile/03286011044820943011",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2825532436133327117/posts/8791395704089632443/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjE1MzgzMDg1ODQzCm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "2113579080909336518",
+      "blog": {
+        "id": "2825532436133327117"
+      },
+      "published": "2021-03-10T05:29:00-08:00",
+      "updated": "2021-03-10T05:29:05-08:00",
+      "url": "http://neuropsychologyen.blogspot.com/2021/03/hunger_10.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2825532436133327117/posts/2113579080909336518",
+      "title": "Hunger",
+      "content": "",
+      "author": {
+        "id": "03286011044820943011",
+        "displayName": "sayang classic 90",
+        "url": "https://www.blogger.com/profile/03286011044820943011",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2825532436133327117/posts/2113579080909336518/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjE1MzgyOTQ1NjQ1Cm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "7612859369002772038",
+      "blog": {
+        "id": "2825532436133327117"
+      },
+      "published": "2021-03-10T05:00:00-08:00",
+      "updated": "2021-03-10T05:04:18-08:00",
+      "url": "http://neuropsychologyen.blogspot.com/2021/03/hunger.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2825532436133327117/posts/7612859369002772038",
+      "title": "Hunger (physiology)",
+      "content": "",
+      "author": {
+        "id": "03286011044820943011",
+        "displayName": "sayang classic 90",
+        "url": "https://www.blogger.com/profile/03286011044820943011",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2825532436133327117/posts/7612859369002772038/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjE1MzgxNDU4MTQzCm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "2543653087970936845",
+      "blog": {
+        "id": "2825532436133327117"
+      },
+      "published": "2021-03-10T04:48:00-08:00",
+      "updated": "2021-03-10T04:48:59-08:00",
+      "url": "http://neuropsychologyen.blogspot.com/2021/03/innerscope-research.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2825532436133327117/posts/2543653087970936845",
+      "title": "Innerscope Research",
+      "content": "",
+      "author": {
+        "id": "03286011044820943011",
+        "displayName": "sayang classic 90",
+        "url": "https://www.blogger.com/profile/03286011044820943011",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2825532436133327117/posts/2543653087970936845/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjE1MzgwNTM5NzEyCm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "2821658629369682503",
+      "blog": {
+        "id": "2825532436133327117"
+      },
+      "published": "2021-03-10T04:46:00-08:00",
+      "updated": "2021-03-10T04:46:44-08:00",
+      "url": "http://neuropsychologyen.blogspot.com/2021/03/integrative-neuroscience.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2825532436133327117/posts/2821658629369682503",
+      "title": "Integrative neuroscience",
+      "content": "",
+      "author": {
+        "id": "03286011044820943011",
+        "displayName": "sayang classic 90",
+        "url": "https://www.blogger.com/profile/03286011044820943011",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2825532436133327117/posts/2821658629369682503/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjE1MzgwNDA0MTc5Cm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "9142018001821273490",
+      "blog": {
+        "id": "2825532436133327117"
+      },
+      "published": "2021-03-10T04:43:00-08:00",
+      "updated": "2021-03-10T04:43:56-08:00",
+      "url": "http://neuropsychologyen.blogspot.com/2021/03/interactions-between-emotional-and.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2825532436133327117/posts/9142018001821273490",
+      "title": "Interactions between the emotional and executive brain systems",
+      "content": "",
+      "author": {
+        "id": "03286011044820943011",
+        "displayName": "sayang classic 90",
+        "url": "https://www.blogger.com/profile/03286011044820943011",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2825532436133327117/posts/9142018001821273490/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjE1MzgwMjM2NTA2Cm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "4299399699498377463",
+      "blog": {
+        "id": "2825532436133327117"
+      },
+      "published": "2021-03-10T04:36:00-08:00",
+      "updated": "2021-03-10T04:36:03-08:00",
+      "url": "http://neuropsychologyen.blogspot.com/2021/03/international-neuropsychological-society.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2825532436133327117/posts/4299399699498377463",
+      "title": "International Neuropsychological Society",
+      "content": "",
+      "author": {
+        "id": "03286011044820943011",
+        "displayName": "sayang classic 90",
+        "url": "https://www.blogger.com/profile/03286011044820943011",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2825532436133327117/posts/4299399699498377463/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjE1Mzc5NzYzMzYwCm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "8203523037834459353",
+      "blog": {
+        "id": "2825532436133327117"
+      },
+      "published": "2021-03-10T04:28:00-08:00",
+      "updated": "2021-03-10T04:28:01-08:00",
+      "url": "http://neuropsychologyen.blogspot.com/2021/03/interpersonal-neurobiology.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2825532436133327117/posts/8203523037834459353",
+      "title": "Interpersonal neurobiology",
+      "content": "",
+      "author": {
+        "id": "03286011044820943011",
+        "displayName": "sayang classic 90",
+        "url": "https://www.blogger.com/profile/03286011044820943011",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2825532436133327117/posts/8203523037834459353/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjE1Mzc5MjgxMzA4Cm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "8809262984094038064",
+      "blog": {
+        "id": "2825532436133327117"
+      },
+      "published": "2021-03-10T01:35:00-08:00",
+      "updated": "2021-03-10T01:35:17-08:00",
+      "url": "http://neuropsychologyen.blogspot.com/2021/03/language-center.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2825532436133327117/posts/8809262984094038064",
+      "title": "Language center",
+      "content": "",
+      "author": {
+        "id": "03286011044820943011",
+        "displayName": "sayang classic 90",
+        "url": "https://www.blogger.com/profile/03286011044820943011",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2825532436133327117/posts/8809262984094038064/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjE1MzY4OTE3MzM3Cm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "5981828910512841601",
+      "blog": {
+        "id": "2825532436133327117"
+      },
+      "published": "2021-03-10T01:33:00-08:00",
+      "updated": "2021-03-10T01:33:27-08:00",
+      "url": "http://neuropsychologyen.blogspot.com/2021/03/language-module.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2825532436133327117/posts/5981828910512841601",
+      "title": "Language module",
+      "content": "",
+      "author": {
+        "id": "03286011044820943011",
+        "displayName": "sayang classic 90",
+        "url": "https://www.blogger.com/profile/03286011044820943011",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2825532436133327117/posts/5981828910512841601/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjE1MzY4ODA3MjA0Cm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "3263526649570884064",
+      "blog": {
+        "id": "2825532436133327117"
+      },
+      "published": "2021-03-10T01:31:00-08:00",
+      "updated": "2021-03-10T01:31:54-08:00",
+      "url": "http://neuropsychologyen.blogspot.com/2021/03/latent-inhibition.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2825532436133327117/posts/3263526649570884064",
+      "title": "Latent inhibition",
+      "content": "",
+      "author": {
+        "id": "03286011044820943011",
+        "displayName": "sayang classic 90",
+        "url": "https://www.blogger.com/profile/03286011044820943011",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2825532436133327117/posts/3263526649570884064/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjE1MzY4NzE0MzU1Cm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "4998222810383577064",
+      "blog": {
+        "id": "2825532436133327117"
+      },
+      "published": "2021-03-10T01:30:00-08:00",
+      "updated": "2021-03-10T01:30:25-08:00",
+      "url": "http://neuropsychologyen.blogspot.com/2021/03/lateralization-of-brain-function.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2825532436133327117/posts/4998222810383577064",
+      "title": "Lateralization of brain function",
+      "content": "",
+      "author": {
+        "id": "03286011044820943011",
+        "displayName": "sayang classic 90",
+        "url": "https://www.blogger.com/profile/03286011044820943011",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2825532436133327117/posts/4998222810383577064/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjE1MzY4NjI1ODYxCm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "6890398986606933401",
+      "blog": {
+        "id": "2825532436133327117"
+      },
+      "published": "2021-03-10T01:28:00-08:00",
+      "updated": "2021-03-10T01:28:56-08:00",
+      "url": "http://neuropsychologyen.blogspot.com/2021/03/left-brain-interpreter.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2825532436133327117/posts/6890398986606933401",
+      "title": "Left-brain interpreter",
+      "content": "",
+      "author": {
+        "id": "03286011044820943011",
+        "displayName": "sayang classic 90",
+        "url": "https://www.blogger.com/profile/03286011044820943011",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2825532436133327117/posts/6890398986606933401/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjE1MzY4NTM2MDc0Cm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "8206917553693374992",
+      "blog": {
+        "id": "2825532436133327117"
+      },
+      "published": "2021-03-10T01:27:00-08:00",
+      "updated": "2021-03-10T01:27:32-08:00",
+      "url": "http://neuropsychologyen.blogspot.com/2021/03/limbic-resonance.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2825532436133327117/posts/8206917553693374992",
+      "title": "Limbic resonance",
+      "content": "",
+      "author": {
+        "id": "03286011044820943011",
+        "displayName": "sayang classic 90",
+        "url": "https://www.blogger.com/profile/03286011044820943011",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2825532436133327117/posts/8206917553693374992/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjE1MzY4NDUyMTQ4Cm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "5272672278114631765",
+      "blog": {
+        "id": "2825532436133327117"
+      },
+      "published": "2021-03-10T01:25:00-08:00",
+      "updated": "2021-03-10T01:25:59-08:00",
+      "url": "http://neuropsychologyen.blogspot.com/2021/03/low-arousal-theory.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2825532436133327117/posts/5272672278114631765",
+      "title": "Low arousal theory",
+      "content": "",
+      "author": {
+        "id": "03286011044820943011",
+        "displayName": "sayang classic 90",
+        "url": "https://www.blogger.com/profile/03286011044820943011",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2825532436133327117/posts/5272672278114631765/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjE1MzY4MzU5NjE3Cm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "1884890280512860872",
+      "blog": {
+        "id": "2825532436133327117"
+      },
+      "published": "2021-03-10T01:24:00-08:00",
+      "updated": "2021-03-10T01:24:21-08:00",
+      "url": "http://neuropsychologyen.blogspot.com/2021/03/luria-neuroscience-institute.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2825532436133327117/posts/1884890280512860872",
+      "title": "Luria Neuroscience Institute ",
+      "content": "",
+      "author": {
+        "id": "03286011044820943011",
+        "displayName": "sayang classic 90",
+        "url": "https://www.blogger.com/profile/03286011044820943011",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2825532436133327117/posts/1884890280512860872/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjE1MzY4MjYxNDM0Cm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "7199434993323640629",
+      "blog": {
+        "id": "2825532436133327117"
+      },
+      "published": "2021-03-10T01:22:00-08:00",
+      "updated": "2021-03-10T01:22:20-08:00",
+      "url": "http://neuropsychologyen.blogspot.com/2021/03/malnutrition.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2825532436133327117/posts/7199434993323640629",
+      "title": "Malnutrition",
+      "content": "",
+      "author": {
+        "id": "03286011044820943011",
+        "displayName": "sayang classic 90",
+        "url": "https://www.blogger.com/profile/03286011044820943011",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2825532436133327117/posts/7199434993323640629/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjE1MzY4MTQwMjM5Cm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "5333272154568072592",
+      "blog": {
+        "id": "2825532436133327117"
+      },
+      "published": "2021-03-10T01:14:00-08:00",
+      "updated": "2021-03-10T01:14:16-08:00",
+      "url": "http://neuropsychologyen.blogspot.com/2021/03/mind.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2825532436133327117/posts/5333272154568072592",
+      "title": "Mind",
+      "content": "",
+      "author": {
+        "id": "03286011044820943011",
+        "displayName": "sayang classic 90",
+        "url": "https://www.blogger.com/profile/03286011044820943011",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2825532436133327117/posts/5333272154568072592/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjE1MzY3NjU2ODg5Cm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "5599677457956334372",
+      "blog": {
+        "id": "2825532436133327117"
+      },
+      "published": "2021-03-10T01:10:00-08:00",
+      "updated": "2021-03-10T01:10:55-08:00",
+      "url": "http://neuropsychologyen.blogspot.com/2021/03/mismatch-negativity.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2825532436133327117/posts/5599677457956334372",
+      "title": "Mismatch negativity",
+      "content": "",
+      "author": {
+        "id": "03286011044820943011",
+        "displayName": "sayang classic 90",
+        "url": "https://www.blogger.com/profile/03286011044820943011",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2825532436133327117/posts/5599677457956334372/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjE1MzY3NDU1Njc4Cm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "5798583480084292531",
+      "blog": {
+        "id": "2825532436133327117"
+      },
+      "published": "2021-03-10T01:08:00-08:00",
+      "updated": "2021-03-10T01:08:26-08:00",
+      "url": "http://neuropsychologyen.blogspot.com/2021/03/models-of-consciousness.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2825532436133327117/posts/5798583480084292531",
+      "title": "Models of consciousness",
+      "content": "",
+      "author": {
+        "id": "03286011044820943011",
+        "displayName": "sayang classic 90",
+        "url": "https://www.blogger.com/profile/03286011044820943011",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2825532436133327117/posts/5798583480084292531/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjE1MzY3MzA2MTg2Cm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "2961090919053969370",
+      "blog": {
+        "id": "2825532436133327117"
+      },
+      "published": "2021-03-10T01:05:00-08:00",
+      "updated": "2021-03-10T01:05:16-08:00",
+      "url": "http://neuropsychologyen.blogspot.com/2021/03/motivational-salience.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2825532436133327117/posts/2961090919053969370",
+      "title": "Motivational salience",
+      "content": "",
+      "author": {
+        "id": "17999838611123063685",
+        "displayName": "febyra",
+        "url": "https://www.blogger.com/profile/17999838611123063685",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2825532436133327117/posts/2961090919053969370/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjE1MzY3MTE2NDc2Cm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "5733787074103337060",
+      "blog": {
+        "id": "2825532436133327117"
+      },
+      "published": "2021-03-10T01:03:00-08:00",
+      "updated": "2021-03-10T01:03:33-08:00",
+      "url": "http://neuropsychologyen.blogspot.com/2021/03/motor-imagery.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2825532436133327117/posts/5733787074103337060",
+      "title": "Motor imagery",
+      "content": "",
+      "author": {
+        "id": "17999838611123063685",
+        "displayName": "febyra",
+        "url": "https://www.blogger.com/profile/17999838611123063685",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2825532436133327117/posts/5733787074103337060/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjE1MzY3MDEzOTE1Cm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "2552130762663546645",
+      "blog": {
+        "id": "2825532436133327117"
+      },
+      "published": "2021-03-10T01:02:00-08:00",
+      "updated": "2021-03-10T01:02:08-08:00",
+      "url": "http://neuropsychologyen.blogspot.com/2021/03/n-back.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2825532436133327117/posts/2552130762663546645",
+      "title": "N-back",
+      "content": "",
+      "author": {
+        "id": "17999838611123063685",
+        "displayName": "febyra",
+        "url": "https://www.blogger.com/profile/17999838611123063685",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2825532436133327117/posts/2552130762663546645/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjE1MzY2OTI4ODMzCm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "8567428586563225268",
+      "blog": {
+        "id": "2825532436133327117"
+      },
+      "published": "2021-03-10T01:00:00-08:00",
+      "updated": "2021-03-10T01:00:05-08:00",
+      "url": "http://neuropsychologyen.blogspot.com/2021/03/navon-figure.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2825532436133327117/posts/8567428586563225268",
+      "title": "Navon figure",
+      "content": "",
+      "author": {
+        "id": "17999838611123063685",
+        "displayName": "febyra",
+        "url": "https://www.blogger.com/profile/17999838611123063685",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2825532436133327117/posts/8567428586563225268/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjE1MzY2ODA1NDg2Cm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "5998291427711631105",
+      "blog": {
+        "id": "2825532436133327117"
+      },
+      "published": "2021-03-10T00:55:00-08:00",
+      "updated": "2021-03-10T00:55:27-08:00",
+      "url": "http://neuropsychologyen.blogspot.com/2021/03/nepsy.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2825532436133327117/posts/5998291427711631105",
+      "title": "NEPSY",
+      "content": "",
+      "author": {
+        "id": "17999838611123063685",
+        "displayName": "febyra",
+        "url": "https://www.blogger.com/profile/17999838611123063685",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2825532436133327117/posts/5998291427711631105/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjE1MzY2NTI3MjQ2Cm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "7513135200375783350",
+      "blog": {
+        "id": "2825532436133327117"
+      },
+      "published": "2021-03-10T00:53:00-08:00",
+      "updated": "2021-03-10T00:53:32-08:00",
+      "url": "http://neuropsychologyen.blogspot.com/2021/03/neural-clique.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2825532436133327117/posts/7513135200375783350",
+      "title": "Neural clique",
+      "content": "",
+      "author": {
+        "id": "17999838611123063685",
+        "displayName": "febyra",
+        "url": "https://www.blogger.com/profile/17999838611123063685",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2825532436133327117/posts/7513135200375783350/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjE1MzY2NDEyNDAxCm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "7819287956323794051",
+      "blog": {
+        "id": "2825532436133327117"
+      },
+      "published": "2021-03-10T00:51:00-08:00",
+      "updated": "2021-03-10T00:51:41-08:00",
+      "url": "http://neuropsychologyen.blogspot.com/2021/03/neurobiological-effects-of-physical.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2825532436133327117/posts/7819287956323794051",
+      "title": "Neurobiological effects of physical exercise",
+      "content": "",
+      "author": {
+        "id": "17999838611123063685",
+        "displayName": "febyra",
+        "url": "https://www.blogger.com/profile/17999838611123063685",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2825532436133327117/posts/7819287956323794051/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjE1MzY2MzAxNzc5Cm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "3072519776006465969",
+      "blog": {
+        "id": "2825532436133327117"
+      },
+      "published": "2021-03-10T00:11:00-08:00",
+      "updated": "2021-03-10T00:11:32-08:00",
+      "url": "http://neuropsychologyen.blogspot.com/2021/03/neurocognition.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2825532436133327117/posts/3072519776006465969",
+      "title": "Neurocognition",
+      "content": "",
+      "author": {
+        "id": "17999838611123063685",
+        "displayName": "febyra",
+        "url": "https://www.blogger.com/profile/17999838611123063685",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2825532436133327117/posts/3072519776006465969/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjE1MzYzODkyNDM4Cm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "4730692814995237491",
+      "blog": {
+        "id": "2825532436133327117"
+      },
+      "published": "2021-03-10T00:09:00-08:00",
+      "updated": "2021-03-10T00:09:59-08:00",
+      "url": "http://neuropsychologyen.blogspot.com/2021/03/neurodevelopmental-framework-for.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2825532436133327117/posts/4730692814995237491",
+      "title": "Neurodevelopmental framework for learning",
+      "content": "",
+      "author": {
+        "id": "17999838611123063685",
+        "displayName": "febyra",
+        "url": "https://www.blogger.com/profile/17999838611123063685",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2825532436133327117/posts/4730692814995237491/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjE1MzYzNzk5MDAzCm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "613952084889270108",
+      "blog": {
+        "id": "2825532436133327117"
+      },
+      "published": "2021-03-10T00:08:00-08:00",
+      "updated": "2021-03-10T00:08:30-08:00",
+      "url": "http://neuropsychologyen.blogspot.com/2021/03/neuroesthetics.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2825532436133327117/posts/613952084889270108",
+      "title": "Neuroesthetics",
+      "content": "",
+      "author": {
+        "id": "17999838611123063685",
+        "displayName": "febyra",
+        "url": "https://www.blogger.com/profile/17999838611123063685",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2825532436133327117/posts/613952084889270108/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjE1MzYzNzEwNzQ0Cm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "588571528050892052",
+      "blog": {
+        "id": "2825532436133327117"
+      },
+      "published": "2021-03-10T00:06:00-08:00",
+      "updated": "2021-03-10T00:06:21-08:00",
+      "url": "http://neuropsychologyen.blogspot.com/2021/03/neurofeedback.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2825532436133327117/posts/588571528050892052",
+      "title": "Neurofeedback",
+      "content": "",
+      "author": {
+        "id": "17999838611123063685",
+        "displayName": "febyra",
+        "url": "https://www.blogger.com/profile/17999838611123063685",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2825532436133327117/posts/588571528050892052/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjE1MzYzNTgxOTIxCm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "4215220547675555184",
+      "blog": {
+        "id": "2825532436133327117"
+      },
+      "published": "2021-03-10T00:04:00-08:00",
+      "updated": "2021-03-10T00:04:25-08:00",
+      "url": "http://neuropsychologyen.blogspot.com/2021/03/neurological-reparative-therapy.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2825532436133327117/posts/4215220547675555184",
+      "title": "Neurological reparative therapy",
+      "content": "",
+      "author": {
+        "id": "17999838611123063685",
+        "displayName": "febyra",
+        "url": "https://www.blogger.com/profile/17999838611123063685",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2825532436133327117/posts/4215220547675555184/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjE1MzYzNDY1NTIyCm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "6638013284861361025",
+      "blog": {
+        "id": "2825532436133327117"
+      },
+      "published": "2021-03-10T00:02:00-08:00",
+      "updated": "2021-03-10T00:02:53-08:00",
+      "url": "http://neuropsychologyen.blogspot.com/2021/03/neuromodulation.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2825532436133327117/posts/6638013284861361025",
+      "title": "Neuromodulation",
+      "content": "",
+      "author": {
+        "id": "17999838611123063685",
+        "displayName": "febyra",
+        "url": "https://www.blogger.com/profile/17999838611123063685",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2825532436133327117/posts/6638013284861361025/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjE1MzYzMzczODA1Cm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "7283070528524378293",
+      "blog": {
+        "id": "2825532436133327117"
+      },
+      "published": "2021-03-10T00:00:00-08:00",
+      "updated": "2021-03-10T00:00:47-08:00",
+      "url": "http://neuropsychologyen.blogspot.com/2021/03/neurophenomenology.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2825532436133327117/posts/7283070528524378293",
+      "title": "Neurophenomenology",
+      "content": "",
+      "author": {
+        "id": "17999838611123063685",
+        "displayName": "febyra",
+        "url": "https://www.blogger.com/profile/17999838611123063685",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2825532436133327117/posts/7283070528524378293/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjE1MzYzMjQ3MTk0Cm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "9688076693008114",
+      "blog": {
+        "id": "2825532436133327117"
+      },
+      "published": "2021-03-09T23:58:00-08:00",
+      "updated": "2021-03-09T23:58:57-08:00",
+      "url": "http://neuropsychologyen.blogspot.com/2021/03/neuropsychopharmacology.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2825532436133327117/posts/9688076693008114",
+      "title": "Neuropsychopharmacology",
+      "content": "",
+      "author": {
+        "id": "17999838611123063685",
+        "displayName": "febyra",
+        "url": "https://www.blogger.com/profile/17999838611123063685",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2825532436133327117/posts/9688076693008114/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjE1MzYzMTM3NzM1Cm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "7836279050527008773",
+      "blog": {
+        "id": "2825532436133327117"
+      },
+      "published": "2021-03-09T23:57:00-08:00",
+      "updated": "2021-03-09T23:57:03-08:00",
+      "url": "http://neuropsychologyen.blogspot.com/2021/03/neuroscience-and-intelligence.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2825532436133327117/posts/7836279050527008773",
+      "title": "Neuroscience and intelligence",
+      "content": "",
+      "author": {
+        "id": "17999838611123063685",
+        "displayName": "febyra",
+        "url": "https://www.blogger.com/profile/17999838611123063685",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2825532436133327117/posts/7836279050527008773/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjE1MzYzMDIzMDQzCm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "7284505927530462578",
+      "blog": {
+        "id": "2825532436133327117"
+      },
+      "published": "2021-03-09T23:54:00-08:00",
+      "updated": "2021-03-09T23:54:44-08:00",
+      "url": "http://neuropsychologyen.blogspot.com/2021/03/numerical-stroop-effect.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2825532436133327117/posts/7284505927530462578",
+      "title": "Numerical Stroop effect",
+      "content": "",
+      "author": {
+        "id": "17999838611123063685",
+        "displayName": "febyra",
+        "url": "https://www.blogger.com/profile/17999838611123063685",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2825532436133327117/posts/7284505927530462578/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjE1MzYyODg0NDM4Cm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "7042607133411849115",
+      "blog": {
+        "id": "2825532436133327117"
+      },
+      "published": "2021-03-09T23:38:00-08:00",
+      "updated": "2021-03-09T23:38:46-08:00",
+      "url": "http://neuropsychologyen.blogspot.com/2021/03/opponent-process-theory.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2825532436133327117/posts/7042607133411849115",
+      "title": "Opponent-process theory",
+      "content": "",
+      "author": {
+        "id": "17999838611123063685",
+        "displayName": "febyra",
+        "url": "https://www.blogger.com/profile/17999838611123063685",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2825532436133327117/posts/7042607133411849115/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjE1MzYxOTI2OTM1Cm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "4810172751926653881",
+      "blog": {
+        "id": "2825532436133327117"
+      },
+      "published": "2021-03-09T23:36:00-08:00",
+      "updated": "2021-03-09T23:36:20-08:00",
+      "url": "http://neuropsychologyen.blogspot.com/2021/03/paced-auditory-serial-addition-test.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2825532436133327117/posts/4810172751926653881",
+      "title": "Paced Auditory Serial Addition Test",
+      "content": "",
+      "author": {
+        "id": "17999838611123063685",
+        "displayName": "febyra",
+        "url": "https://www.blogger.com/profile/17999838611123063685",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2825532436133327117/posts/4810172751926653881/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjE1MzYxNzgwOTU2Cm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "8680279506476494104",
+      "blog": {
+        "id": "2825532436133327117"
+      },
+      "published": "2021-03-09T23:35:00-08:00",
+      "updated": "2021-03-09T23:35:02-08:00",
+      "url": "http://neuropsychologyen.blogspot.com/2021/03/planning.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2825532436133327117/posts/8680279506476494104",
+      "title": "Planning",
+      "content": "",
+      "author": {
+        "id": "17999838611123063685",
+        "displayName": "febyra",
+        "url": "https://www.blogger.com/profile/17999838611123063685",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2825532436133327117/posts/8680279506476494104/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjE1MzYxNzAyMDM0Cm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "3392427385065918780",
+      "blog": {
+        "id": "2825532436133327117"
+      },
+      "published": "2021-03-09T23:33:00-08:00",
+      "updated": "2021-03-09T23:33:26-08:00",
+      "url": "http://neuropsychologyen.blogspot.com/2021/03/posner-cueing-task.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2825532436133327117/posts/3392427385065918780",
+      "title": "Posner cueing task",
+      "content": "",
+      "author": {
+        "id": "17999838611123063685",
+        "displayName": "febyra",
+        "url": "https://www.blogger.com/profile/17999838611123063685",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2825532436133327117/posts/3392427385065918780/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjE1MzYxNjA2MTg0Cm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "8771292372499801539",
+      "blog": {
+        "id": "2825532436133327117"
+      },
+      "published": "2021-03-09T23:31:00-08:00",
+      "updated": "2021-03-09T23:31:44-08:00",
+      "url": "http://neuropsychologyen.blogspot.com/2021/03/predictive-coding.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2825532436133327117/posts/8771292372499801539",
+      "title": "Predictive coding",
+      "content": "",
+      "author": {
+        "id": "17999838611123063685",
+        "displayName": "febyra",
+        "url": "https://www.blogger.com/profile/17999838611123063685",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2825532436133327117/posts/8771292372499801539/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjE1MzYxNTA0MzUxCm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "4862655972908870013",
+      "blog": {
+        "id": "2825532436133327117"
+      },
+      "published": "2021-03-09T23:29:00-08:00",
+      "updated": "2021-03-09T23:29:43-08:00",
+      "url": "http://neuropsychologyen.blogspot.com/2021/03/prevention-of-dementia.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2825532436133327117/posts/4862655972908870013",
+      "title": "Prevention of dementia",
+      "content": "",
+      "author": {
+        "id": "17999838611123063685",
+        "displayName": "febyra",
+        "url": "https://www.blogger.com/profile/17999838611123063685",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2825532436133327117/posts/4862655972908870013/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjE1MzYxMzgzNzk1Cm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "8538574717449861778",
+      "blog": {
+        "id": "2825532436133327117"
+      },
+      "published": "2021-03-09T23:27:00-08:00",
+      "updated": "2021-03-09T23:27:57-08:00",
+      "url": "http://neuropsychologyen.blogspot.com/2021/03/probabilistic-epigenesis.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2825532436133327117/posts/8538574717449861778",
+      "title": "Probabilistic epigenesis",
+      "content": "",
+      "author": {
+        "id": "17999838611123063685",
+        "displayName": "febyra",
+        "url": "https://www.blogger.com/profile/17999838611123063685",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2825532436133327117/posts/8538574717449861778/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjE1MzYxMjc3ODM2Cm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "5374163551561741380",
+      "blog": {
+        "id": "2825532436133327117"
+      },
+      "published": "2021-03-09T23:26:00-08:00",
+      "updated": "2021-03-09T23:26:08-08:00",
+      "url": "http://neuropsychologyen.blogspot.com/2021/03/psychic-apparatus.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2825532436133327117/posts/5374163551561741380",
+      "title": "Psychic apparatus",
+      "content": "",
+      "author": {
+        "id": "17999838611123063685",
+        "displayName": "febyra",
+        "url": "https://www.blogger.com/profile/17999838611123063685",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2825532436133327117/posts/5374163551561741380/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjE1MzYxMTY4NjIwCm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "39723662539336087",
+      "blog": {
+        "id": "2825532436133327117"
+      },
+      "published": "2021-03-09T23:24:00-08:00",
+      "updated": "2021-03-09T23:24:27-08:00",
+      "url": "http://neuropsychologyen.blogspot.com/2021/03/psychological-refractory-period.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2825532436133327117/posts/39723662539336087",
+      "title": "Psychological refractory period",
+      "content": "",
+      "author": {
+        "id": "17999838611123063685",
+        "displayName": "febyra",
+        "url": "https://www.blogger.com/profile/17999838611123063685",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2825532436133327117/posts/39723662539336087/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjE1MzYxMDY3NDc1Cm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "6734827542144425753",
+      "blog": {
+        "id": "2825532436133327117"
+      },
+      "published": "2021-03-09T23:22:00-08:00",
+      "updated": "2021-03-09T23:22:15-08:00",
+      "url": "http://neuropsychologyen.blogspot.com/2021/03/psychophysiology.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2825532436133327117/posts/6734827542144425753",
+      "title": "Psychophysiology",
+      "content": "",
+      "author": {
+        "id": "17999838611123063685",
+        "displayName": "febyra",
+        "url": "https://www.blogger.com/profile/17999838611123063685",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2825532436133327117/posts/6734827542144425753/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjE1MzYwOTM1NjY4Cm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "7330577628056726552",
+      "blog": {
+        "id": "2825532436133327117"
+      },
+      "published": "2021-03-09T23:19:00-08:00",
+      "updated": "2021-03-09T23:19:29-08:00",
+      "url": "http://neuropsychologyen.blogspot.com/2021/03/receptive-aphasia.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2825532436133327117/posts/7330577628056726552",
+      "title": "Receptive aphasia",
+      "content": "",
+      "author": {
+        "id": "17999838611123063685",
+        "displayName": "febyra",
+        "url": "https://www.blogger.com/profile/17999838611123063685",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2825532436133327117/posts/7330577628056726552/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjE1MzYwNzY5OTYyCm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "4753378080895380293",
+      "blog": {
+        "id": "2825532436133327117"
+      },
+      "published": "2021-03-09T23:17:00-08:00",
+      "updated": "2021-03-09T23:17:15-08:00",
+      "url": "http://neuropsychologyen.blogspot.com/2021/03/rehabilitation.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2825532436133327117/posts/4753378080895380293",
+      "title": "Rehabilitation",
+      "content": "",
+      "author": {
+        "id": "17999838611123063685",
+        "displayName": "febyra",
+        "url": "https://www.blogger.com/profile/17999838611123063685",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2825532436133327117/posts/4753378080895380293/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjE1MzYwNjM1MDIwCm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "591043682577996811",
+      "blog": {
+        "id": "2825532436133327117"
+      },
+      "published": "2021-03-09T23:15:00-08:00",
+      "updated": "2021-03-09T23:15:22-08:00",
+      "url": "http://neuropsychologyen.blogspot.com/2021/03/repeatable-battery-for-assessment-of.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2825532436133327117/posts/591043682577996811",
+      "title": "Repeatable Battery for the Assessment of Neuropsychological Status",
+      "content": "",
+      "author": {
+        "id": "17999838611123063685",
+        "displayName": "febyra",
+        "url": "https://www.blogger.com/profile/17999838611123063685",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2825532436133327117/posts/591043682577996811/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjE1MzYwNTIyMDY5Cm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "6583009515132817750",
+      "blog": {
+        "id": "2825532436133327117"
+      },
+      "published": "2021-03-09T23:13:00-08:00",
+      "updated": "2021-03-09T23:13:58-08:00",
+      "url": "http://neuropsychologyen.blogspot.com/2021/03/reward-system.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2825532436133327117/posts/6583009515132817750",
+      "title": "Reward system",
+      "content": "",
+      "author": {
+        "id": "17999838611123063685",
+        "displayName": "febyra",
+        "url": "https://www.blogger.com/profile/17999838611123063685",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2825532436133327117/posts/6583009515132817750/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjE1MzYwNDM4NTExCm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "1641018407105302202",
+      "blog": {
+        "id": "2825532436133327117"
+      },
+      "published": "2021-03-09T23:10:00-08:00",
+      "updated": "2021-03-09T23:10:42-08:00",
+      "url": "http://neuropsychologyen.blogspot.com/2021/03/reyosterrieth-complex-figure.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2825532436133327117/posts/1641018407105302202",
+      "title": "Rey–Osterrieth complex figure",
+      "content": "",
+      "author": {
+        "id": "17999838611123063685",
+        "displayName": "febyra",
+        "url": "https://www.blogger.com/profile/17999838611123063685",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2825532436133327117/posts/1641018407105302202/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjE1MzYwMjQyNjUxCm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "3727337303742974224",
+      "blog": {
+        "id": "2825532436133327117"
+      },
+      "published": "2021-03-09T23:08:00-08:00",
+      "updated": "2021-03-09T23:08:46-08:00",
+      "url": "http://neuropsychologyen.blogspot.com/2021/03/salience.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2825532436133327117/posts/3727337303742974224",
+      "title": "Salience",
+      "content": "",
+      "author": {
+        "id": "17999838611123063685",
+        "displayName": "febyra",
+        "url": "https://www.blogger.com/profile/17999838611123063685",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2825532436133327117/posts/3727337303742974224/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjE1MzYwMTI2NjU1Cm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "2070620427474055020",
+      "blog": {
+        "id": "2825532436133327117"
+      },
+      "published": "2021-03-09T23:06:00-08:00",
+      "updated": "2021-03-09T23:06:34-08:00",
+      "url": "http://neuropsychologyen.blogspot.com/2021/03/search-activity-concept.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2825532436133327117/posts/2070620427474055020",
+      "title": "Search activity concept",
+      "content": "",
+      "author": {
+        "id": "17999838611123063685",
+        "displayName": "febyra",
+        "url": "https://www.blogger.com/profile/17999838611123063685",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2825532436133327117/posts/2070620427474055020/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjE1MzU5OTk0MjQ5Cm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "2734580892367214622",
+      "blog": {
+        "id": "2825532436133327117"
+      },
+      "published": "2021-03-09T23:04:00-08:00",
+      "updated": "2021-03-09T23:04:58-08:00",
+      "url": "http://neuropsychologyen.blogspot.com/2021/03/self-disorder.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2825532436133327117/posts/2734580892367214622",
+      "title": "Self-disorder",
+      "content": "",
+      "author": {
+        "id": "17999838611123063685",
+        "displayName": "febyra",
+        "url": "https://www.blogger.com/profile/17999838611123063685",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2825532436133327117/posts/2734580892367214622/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjE1MzU5ODk4ODg4Cm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "6376948746481492744",
+      "blog": {
+        "id": "2825532436133327117"
+      },
+      "published": "2021-03-09T22:37:00-08:00",
+      "updated": "2021-03-09T22:37:36-08:00",
+      "url": "http://neuropsychologyen.blogspot.com/2021/03/sense-of-agency.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2825532436133327117/posts/6376948746481492744",
+      "title": "Sense of agency",
+      "content": "",
+      "author": {
+        "id": "17999838611123063685",
+        "displayName": "febyra",
+        "url": "https://www.blogger.com/profile/17999838611123063685",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2825532436133327117/posts/6376948746481492744/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjE1MzU4MjU2MDk5Cm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "5503715525281497352",
+      "blog": {
+        "id": "2825532436133327117"
+      },
+      "published": "2021-03-09T22:35:00-08:00",
+      "updated": "2021-03-09T22:35:53-08:00",
+      "url": "http://neuropsychologyen.blogspot.com/2021/03/sensory-processing-sensitivity.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2825532436133327117/posts/5503715525281497352",
+      "title": "Sensory processing sensitivity",
+      "content": "",
+      "author": {
+        "id": "17999838611123063685",
+        "displayName": "febyra",
+        "url": "https://www.blogger.com/profile/17999838611123063685",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2825532436133327117/posts/5503715525281497352/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjE1MzU4MTUzMjg2Cm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "8232902553969868415",
+      "blog": {
+        "id": "2825532436133327117"
+      },
+      "published": "2021-03-09T22:34:00-08:00",
+      "updated": "2021-03-09T22:34:26-08:00",
+      "url": "http://neuropsychologyen.blogspot.com/2021/03/sleep-paralysis.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2825532436133327117/posts/8232902553969868415",
+      "title": "Sleep paralysis",
+      "content": "",
+      "author": {
+        "id": "17999838611123063685",
+        "displayName": "febyra",
+        "url": "https://www.blogger.com/profile/17999838611123063685",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2825532436133327117/posts/8232902553969868415/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjE1MzU4MDY2NDQ4Cm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "7180860507655822946",
+      "blog": {
+        "id": "2825532436133327117"
+      },
+      "published": "2021-03-09T22:32:00-08:00",
+      "updated": "2021-03-09T22:32:02-08:00",
+      "url": "http://neuropsychologyen.blogspot.com/2021/03/social-cognitive-neuroscience.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2825532436133327117/posts/7180860507655822946",
+      "title": "Social cognitive neuroscience",
+      "content": "",
+      "author": {
+        "id": "17999838611123063685",
+        "displayName": "febyra",
+        "url": "https://www.blogger.com/profile/17999838611123063685",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2825532436133327117/posts/7180860507655822946/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjE1MzU3OTIyNTI1Cm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "776780637760348065",
+      "blog": {
+        "id": "2825532436133327117"
+      },
+      "published": "2021-03-09T22:29:00-08:00",
+      "updated": "2021-03-09T22:29:35-08:00",
+      "url": "http://neuropsychologyen.blogspot.com/2021/03/social-neuroscience.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2825532436133327117/posts/776780637760348065",
+      "title": "Social neuroscience",
+      "content": "",
+      "author": {
+        "id": "17999838611123063685",
+        "displayName": "febyra",
+        "url": "https://www.blogger.com/profile/17999838611123063685",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2825532436133327117/posts/776780637760348065/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjE1MzU3Nzc1MDU5Cm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "6007034349390530908",
+      "blog": {
+        "id": "2825532436133327117"
+      },
+      "published": "2021-03-09T22:28:00-08:00",
+      "updated": "2021-03-09T22:28:06-08:00",
+      "url": "http://neuropsychologyen.blogspot.com/2021/03/somatic-marker-hypothesis.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2825532436133327117/posts/6007034349390530908",
+      "title": "Somatic marker hypothesis",
+      "content": "",
+      "author": {
+        "id": "17999838611123063685",
+        "displayName": "febyra",
+        "url": "https://www.blogger.com/profile/17999838611123063685",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2825532436133327117/posts/6007034349390530908/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjE1MzU3Njg2NDgyCm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "1536478109383199525",
+      "blog": {
+        "id": "2825532436133327117"
+      },
+      "published": "2021-03-09T22:26:00-08:00",
+      "updated": "2021-03-09T22:26:17-08:00",
+      "url": "http://neuropsychologyen.blogspot.com/2021/03/somatic-theory.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2825532436133327117/posts/1536478109383199525",
+      "title": "Somatic theory",
+      "content": "",
+      "author": {
+        "id": "17999838611123063685",
+        "displayName": "febyra",
+        "url": "https://www.blogger.com/profile/17999838611123063685",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2825532436133327117/posts/1536478109383199525/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjE1MzU3NTc3NDUxCm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "4096113420167201200",
+      "blog": {
+        "id": "2825532436133327117"
+      },
+      "published": "2021-03-09T22:24:00-08:00",
+      "updated": "2021-03-09T22:24:41-08:00",
+      "url": "http://neuropsychologyen.blogspot.com/2021/03/source-monitoring-error.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2825532436133327117/posts/4096113420167201200",
+      "title": "Source-monitoring error",
+      "content": "",
+      "author": {
+        "id": "17999838611123063685",
+        "displayName": "febyra",
+        "url": "https://www.blogger.com/profile/17999838611123063685",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2825532436133327117/posts/4096113420167201200/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjE1MzU3NDgxNjk1Cm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "1926431553271595594",
+      "blog": {
+        "id": "2825532436133327117"
+      },
+      "published": "2021-03-09T22:22:00-08:00",
+      "updated": "2021-03-09T22:22:45-08:00",
+      "url": "http://neuropsychologyen.blogspot.com/2021/03/tetrad-test.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2825532436133327117/posts/1926431553271595594",
+      "title": "Tetrad test",
+      "content": "",
+      "author": {
+        "id": "17999838611123063685",
+        "displayName": "febyra",
+        "url": "https://www.blogger.com/profile/17999838611123063685",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2825532436133327117/posts/1926431553271595594/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjE1MzU3MzY1NjQ0Cm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "8578803027395118003",
+      "blog": {
+        "id": "2825532436133327117"
+      },
+      "published": "2021-03-09T22:21:00-08:00",
+      "updated": "2021-03-09T22:21:15-08:00",
+      "url": "http://neuropsychologyen.blogspot.com/2021/03/the-neurogenderings-network.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2825532436133327117/posts/8578803027395118003",
+      "title": "The NeuroGenderings Network",
+      "content": "",
+      "author": {
+        "id": "17999838611123063685",
+        "displayName": "febyra",
+        "url": "https://www.blogger.com/profile/17999838611123063685",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2825532436133327117/posts/8578803027395118003/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjE1MzU3Mjc1NzU4Cm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "7307639505646066906",
+      "blog": {
+        "id": "2825532436133327117"
+      },
+      "published": "2021-03-09T22:19:00-08:00",
+      "updated": "2021-03-09T22:19:23-08:00",
+      "url": "http://neuropsychologyen.blogspot.com/2021/03/theory-of-narrative-thought.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2825532436133327117/posts/7307639505646066906",
+      "title": "Theory of narrative thought",
+      "content": "",
+      "author": {
+        "id": "17999838611123063685",
+        "displayName": "febyra",
+        "url": "https://www.blogger.com/profile/17999838611123063685",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2825532436133327117/posts/7307639505646066906/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjE1MzU3MTYzNDY5Cm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "2781891052143482460",
+      "blog": {
+        "id": "2825532436133327117"
+      },
+      "published": "2021-03-09T22:17:00-08:00",
+      "updated": "2021-03-09T22:17:37-08:00",
+      "url": "http://neuropsychologyen.blogspot.com/2021/03/top-down-and-bottom-up-design.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2825532436133327117/posts/2781891052143482460",
+      "title": "Top-down and bottom-up design",
+      "content": "",
+      "author": {
+        "id": "17999838611123063685",
+        "displayName": "febyra",
+        "url": "https://www.blogger.com/profile/17999838611123063685",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2825532436133327117/posts/2781891052143482460/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjE1MzU3MDU3MTkzCm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "8048157017663505449",
+      "blog": {
+        "id": "2825532436133327117"
+      },
+      "published": "2021-03-09T22:15:00-08:00",
+      "updated": "2021-03-09T22:15:40-08:00",
+      "url": "http://neuropsychologyen.blogspot.com/2021/03/transcranial-magnetic-stimulation.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2825532436133327117/posts/8048157017663505449",
+      "title": "Transcranial magnetic stimulation",
+      "content": "",
+      "author": {
+        "id": "17999838611123063685",
+        "displayName": "febyra",
+        "url": "https://www.blogger.com/profile/17999838611123063685",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2825532436133327117/posts/8048157017663505449/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjE1MzU2OTQwMTQ4Cm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "4965353272899988502",
+      "blog": {
+        "id": "2825532436133327117"
+      },
+      "published": "2021-03-09T22:13:00-08:00",
+      "updated": "2021-03-09T22:13:43-08:00",
+      "url": "http://neuropsychologyen.blogspot.com/2021/03/unconscious-cognition.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2825532436133327117/posts/4965353272899988502",
+      "title": "Unconscious cognition",
+      "content": "",
+      "author": {
+        "id": "17999838611123063685",
+        "displayName": "febyra",
+        "url": "https://www.blogger.com/profile/17999838611123063685",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2825532436133327117/posts/4965353272899988502/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjE1MzU2ODIzMzYxCm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "8501092632936163575",
+      "blog": {
+        "id": "2825532436133327117"
+      },
+      "published": "2021-03-09T22:12:00-08:00",
+      "updated": "2021-03-09T22:12:00-08:00",
+      "url": "http://neuropsychologyen.blogspot.com/2021/03/unconscious-mind.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2825532436133327117/posts/8501092632936163575",
+      "title": "Unconscious mind",
+      "content": "",
+      "author": {
+        "id": "17999838611123063685",
+        "displayName": "febyra",
+        "url": "https://www.blogger.com/profile/17999838611123063685",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2825532436133327117/posts/8501092632936163575/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjE1MzU2NzIwMTI0Cm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "9154680299507292069",
+      "blog": {
+        "id": "2825532436133327117"
+      },
+      "published": "2021-03-09T22:10:00-08:00",
+      "updated": "2021-03-09T22:10:04-08:00",
+      "url": "http://neuropsychologyen.blogspot.com/2021/03/verbal-fluency-test.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2825532436133327117/posts/9154680299507292069",
+      "title": "Verbal fluency test",
+      "content": "",
+      "author": {
+        "id": "17999838611123063685",
+        "displayName": "febyra",
+        "url": "https://www.blogger.com/profile/17999838611123063685",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2825532436133327117/posts/9154680299507292069/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjE1MzU2NjA0NTg5Cm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "443980439128735964",
+      "blog": {
+        "id": "2825532436133327117"
+      },
+      "published": "2021-03-09T22:08:00-08:00",
+      "updated": "2021-03-09T22:08:03-08:00",
+      "url": "http://neuropsychologyen.blogspot.com/2021/03/visual-search.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2825532436133327117/posts/443980439128735964",
+      "title": "Visual search",
+      "content": "",
+      "author": {
+        "id": "17999838611123063685",
+        "displayName": "febyra",
+        "url": "https://www.blogger.com/profile/17999838611123063685",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2825532436133327117/posts/443980439128735964/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjE1MzU2NDgzNjYxCm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "3723420422174691839",
+      "blog": {
+        "id": "2825532436133327117"
+      },
+      "published": "2021-03-09T22:05:00-08:00",
+      "updated": "2021-03-09T22:05:58-08:00",
+      "url": "http://neuropsychologyen.blogspot.com/2021/03/visual-temporal-attention.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2825532436133327117/posts/3723420422174691839",
+      "title": "Visual temporal attention",
+      "content": "",
+      "author": {
+        "id": "17999838611123063685",
+        "displayName": "febyra",
+        "url": "https://www.blogger.com/profile/17999838611123063685",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2825532436133327117/posts/3723420422174691839/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjE1MzU2MzU4MDk4Cm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "2448549794549674240",
+      "blog": {
+        "id": "2825532436133327117"
+      },
+      "published": "2021-03-09T22:04:00-08:00",
+      "updated": "2021-03-09T22:04:17-08:00",
+      "url": "http://neuropsychologyen.blogspot.com/2021/03/visuospatial-function.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2825532436133327117/posts/2448549794549674240",
+      "title": "Visuospatial function",
+      "content": "",
+      "author": {
+        "id": "17999838611123063685",
+        "displayName": "febyra",
+        "url": "https://www.blogger.com/profile/17999838611123063685",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2825532436133327117/posts/2448549794549674240/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjE1MzU2MjU3NDQ2Cm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "69387183548176785",
+      "blog": {
+        "id": "2825532436133327117"
+      },
+      "published": "2021-03-09T22:02:00-08:00",
+      "updated": "2021-03-09T22:02:33-08:00",
+      "url": "http://neuropsychologyen.blogspot.com/2021/03/wada-test.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2825532436133327117/posts/69387183548176785",
+      "title": "Wada test",
+      "content": "",
+      "author": {
+        "id": "17999838611123063685",
+        "displayName": "febyra",
+        "url": "https://www.blogger.com/profile/17999838611123063685",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2825532436133327117/posts/69387183548176785/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjE1MzU2MTUzMDM1Cm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "2681424825813934627",
+      "blog": {
+        "id": "2825532436133327117"
+      },
+      "published": "2021-03-09T21:59:00-08:00",
+      "updated": "2021-03-09T21:59:57-08:00",
+      "url": "http://neuropsychologyen.blogspot.com/2021/03/westmead-post-traumatic-amnesia-scale.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2825532436133327117/posts/2681424825813934627",
+      "title": "Westmead Post-traumatic Amnesia Scale",
+      "content": "",
+      "author": {
+        "id": "17999838611123063685",
+        "displayName": "febyra",
+        "url": "https://www.blogger.com/profile/17999838611123063685",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2825532436133327117/posts/2681424825813934627/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjE1MzU1OTk3MjYwCm9mZnNldDogLTI4ODAwMDAwCg\""
+    }
+  ],
+  "etag": "\"MjAyMS0wMy0xMVQwNDo1MzowNy41NTZa\""
+}
